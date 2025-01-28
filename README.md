@@ -22,6 +22,7 @@
 ## GLOBAL
 npm install
 ## DEPENDENCIAS
+npm install
  npm i typeorm
  npm i class-validator
  npm i class-transform
